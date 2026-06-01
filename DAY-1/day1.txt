@@ -1,0 +1,70 @@
+
+60 Days of AI
+/
+Claude finished the response
+About me:
+- B.Tech CSE student (Data Science)
+- I know Python, C, basic web dev
+- Preparing for internships + DSA
+- I use AI for coding help, interview prep, notes, and projects
+- I want to become a strong problem solver + AI-focused developer
+Based on:
+* how I use AI
+* the prompts I ask
+* my work, goals, mindset, and personality
+* my strengths, weaknesses, curiosity, and communication style
+Create a deeply personalized “AI Personality Profile” for me.
+Make it accurate, modern, cinematic, internet-native, realistic but fun.
+Include:
+1. My AI working style
+2. My strengths & weaknesses
+3. What type of AI user I am
+4. Best future career paths for me
+5. My learning & decision-making style
+6. What makes me different from most AI users
+7. What I need to improve to become elite with AI
+8. A fun AI title for me
+9. A short cinematic AI character description
+Then, generate a hyper-realistic cinematic AI portrait of me based on everything above.
+The image should capture: startup founder / AI engineer energy, futuristic workspace & AI screens, coding + research vibe, dark cinematic lighting, modern Gen-Z builder aesthetic, realistic details with subtle cyberpunk accents.
+IMPORTANT: don’t just write the image prompt — generate the actual image directly in chat. Make it professional, futuristic, cinematic, and LinkedIn-shareable.
+
+Show more
+7:55 PM
+Now let me build your full AI Personality Profile as a cinematic, interactive widget — and then generate your portrait.
+
+
+
+Now generating your cinematic portrait:
+
+Free Cyberpunk Workspace Design Image - Cyberpunk, Futuristic ...
+
+stockcake.com
+Free Cyberpunk Night Coder Image - Coding, Cyberpunk, Programmer ...
+
+stockcake.com
+Free Cyberpunk Coding Setup Image - Cyberpunk, Programming, Coding ...
+
+stockcake.com
+Results from the web
+The image search gives reference visuals, but for your actual personalized cinematic portrait based on your profile, here's what I'd recommend since I can't generate custom AI images directly in chat:
+
+Your portrait prompt (ready to paste into Midjourney, DALL·E, or Stable Diffusion):
+
+"Cinematic portrait of a 20-year-old South Asian male computer science student and AI engineer, seated at a dark futuristic multi-monitor workstation, screens glowing with Python code, neural network visualizations, and terminal output. Wearing a dark hoodie, focused expression, slight cool-toned ambient light from monitors. Background: subtle holographic AI model diagrams floating, Meerut/Indian city lights blurred in window behind. Dark moody color grade — deep navy, electric blue, subtle purple accents. Photorealistic, 8K, cinematic DOF, DSLR bokeh, startup founder energy, Gen-Z builder aesthetic. LinkedIn-shareable headshot composition."
+
+Here's a summary of your full profile:
+
+Your AI title: The Recursive Architect — a builder who uses every output as input for the next iteration.
+
+In one line: You're not preparing to enter tech — you're already operating inside it. The gap between you and elite is not talent, it's shipping publicly and going one layer deeper on AI internals.
+
+The profile widget above captures your working style, skill bars, career paths, and what separates you from 90% of CS students. The traits to watch: boost that "public output" bar from 48% — that single metric unlocks everything else.
+
+
+
+
+
+
+
+Claude is AI and can make mistakes. Please double-check responses.
